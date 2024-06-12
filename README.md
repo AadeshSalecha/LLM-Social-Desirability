@@ -6,7 +6,7 @@ If you find this work useful for your research, please cite:
 ```
 @article{salecha2024large,
   title={Large Language Models Show Human-like Social Desirability Biases in Survey Responses},
-  author={Salecha, Aadesh and Ireland, Molly E and Subrahmanya, Shashanka and Sedoc, Jo{\~a}o and Ungar, Lyle H and Eichstaedt, Johannes C},
+  author={Salecha, Aadesh and Ireland, Molly E and Subrahmanya, Shashanka and Sedoc, Joao and Ungar, Lyle H and Eichstaedt, Johannes C},
   journal={arXiv preprint arXiv:2405.06058},
   year={2024}
 }
